@@ -1,11 +1,34 @@
 jQuery("#simulation")
-  .on("click", ".s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c .click", function(event, data) {
+  .on("click", ".s-51334570-d481-4cd8-89a6-62326e9cb366 .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
     jFirer = jEvent.getEventFirer();
-    if(jFirer.is("#s-Black-cover")) {
+    if(jFirer.is("#s-Triangle")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "isbackward": true
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Black-cover")) {
       cases = [
         {
           "blocks": [
@@ -395,7 +418,7 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_1")) {
+    } else if(jFirer.is("#s-Button_2")) {
       cases = [
         {
           "blocks": [
@@ -404,7 +427,7 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "target": "screens/0534ba30-7c9a-435f-b6b7-088e2e7bb63d"
+                    "target": "screens/ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -418,338 +441,16 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Input_2")) {
+    } else if(jFirer.is("#s-Button_3")) {
       cases = [
         {
           "blocks": [
             {
               "actions": [
                 {
-                  "action": "jimShow",
+                  "action": "jimNavigation",
                   "parameter": {
-                    "target": [ "#s-Time" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Input_1")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Date" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Input_3")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Time" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-flat_Button_lightTheme")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "#D6D6D6"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "transparent"
-                      }
-                    }
-                  } ],
-                  "exectype": "timed",
-                  "delay": 200
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Time" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-flat_Button_lightTheme_1")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_1": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_1 > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "#D6D6D6"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_1": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_1 > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "transparent"
-                      }
-                    }
-                  } ],
-                  "exectype": "timed",
-                  "delay": 200
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Time" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-flat_Button_lightTheme_2")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_2": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_2 > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "#D6D6D6"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_2": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_2 > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "transparent"
-                      }
-                    }
-                  } ],
-                  "exectype": "timed",
-                  "delay": 200
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Date" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-flat_Button_lightTheme_3")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_3": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_3 > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "#D6D6D6"
-                      }
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_3": {
-                      "attributes": {
-                        "font-size": "0pt"
-                      }
-                    }
-                  },{
-                    "#s-23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c #s-flat_Button_lightTheme_3 > .backgroundLayer > .colorLayer": {
-                      "attributes": {
-                        "background-color": "transparent"
-                      }
-                    }
-                  } ],
-                  "exectype": "timed",
-                  "delay": 200
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Date" ]
+                    "target": "screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349"
                   },
                   "exectype": "serial",
                   "delay": 0
