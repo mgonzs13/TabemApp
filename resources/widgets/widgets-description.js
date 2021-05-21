@@ -39,10 +39,6 @@
 
 			widgets.rootWidgetMap[["s-drop-down", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Drop Down", "s-drop-down"]; 
 
-	widgets.descriptionMap[["s-Label_54", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Label_54", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Label_55", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Label_55", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
@@ -55,17 +51,41 @@
 
 			widgets.rootWidgetMap[["s-Two-line-item_27", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Two line item", "s-Two-line-item_27"]; 
 
-	widgets.descriptionMap[["s-Two-line-item_22", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Two-line-item_22", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Two line item", "s-Two-line-item_22"]; 
-
 	widgets.descriptionMap[["s-Two-line-item_24", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Two-line-item_24", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Two line item", "s-Two-line-item_24"]; 
 
+	widgets.descriptionMap[["s-Image_70", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_70", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Apps", "s-Image_70"]; 
+
+	widgets.descriptionMap[["s-Panel_4", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_4", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
 	widgets.descriptionMap[["s-Two-line-item_34", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Two-line-item_34", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Two line item", "s-Two-line-item_34"]; 
+
+	widgets.descriptionMap[["s-Image_8", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_8", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Bitcoin", "s-Image_8"]; 
+
+	widgets.descriptionMap[["s-Panel_3", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_3", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_36", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_36", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Two line item", "s-Two-line-item_36"]; 
+
+	widgets.descriptionMap[["s-Image_21", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_21", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Settings", "s-Image_21"]; 
+
+	widgets.descriptionMap[["s-Panel_2", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_2", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Two-line-item_41", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
 
@@ -78,6 +98,14 @@
 	widgets.descriptionMap[["s-Two-line-item_35", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Two-line-item_35", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Two line item", "s-Two-line-item_35"]; 
+
+	widgets.descriptionMap[["s-Image_96", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_96", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Exit", "s-Image_96"]; 
+
+	widgets.descriptionMap[["s-Panel_5", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_5", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Panel_7", "9fce1091-2cc1-4b6d-b880-360b9cd9c686"]] = ""; 
 
@@ -295,13 +323,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "ed1a58ef-7ca9-4fb7-aff9-2208c11aeabc"]] = ""; 
 
@@ -467,9 +495,9 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
+	widgets.descriptionMap[["s-Panel_5", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Panel_1", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+			widgets.rootWidgetMap[["s-Panel_5", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Panel_7", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
 
@@ -639,13 +667,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
 
@@ -831,13 +859,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
@@ -1027,9 +1055,9 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
+	widgets.descriptionMap[["s-Panel_5", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Panel_1", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+			widgets.rootWidgetMap[["s-Panel_5", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Panel_7", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
 
@@ -1187,13 +1215,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
 
@@ -1423,13 +1451,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ""; 
 
@@ -1651,13 +1679,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
 
@@ -1839,13 +1867,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
@@ -2059,13 +2087,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ""; 
 
@@ -2235,13 +2263,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "51334570-d481-4cd8-89a6-62326e9cb366"]] = ""; 
 
@@ -2419,13 +2447,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
@@ -2615,9 +2643,9 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ""; 
+	widgets.descriptionMap[["s-Panel_5", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Panel_1", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+			widgets.rootWidgetMap[["s-Panel_5", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Panel_7", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ""; 
 
@@ -2751,9 +2779,9 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
+	widgets.descriptionMap[["s-Panel_5", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Panel_1", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+			widgets.rootWidgetMap[["s-Panel_5", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Panel_7", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
 
@@ -2955,13 +2983,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
 
@@ -3491,10 +3519,6 @@
 
 			widgets.rootWidgetMap[["s-Content_panel_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Date", "s-Date"]; 
 
-	widgets.descriptionMap[["s-Paragraph_6", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_6", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Text", "s-Paragraph_6"]; 
-
 	widgets.descriptionMap[["s-BgWhite", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ""; 
 
 			widgets.rootWidgetMap[["s-BgWhite", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Dark Background", "s-BgWhite"]; 
@@ -3619,13 +3643,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ""; 
 
@@ -3783,13 +3807,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
 
@@ -3959,13 +3983,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ""; 
 
@@ -4143,13 +4167,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ""; 
 
@@ -4311,13 +4335,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
@@ -4527,13 +4551,13 @@
 
 			widgets.rootWidgetMap[["s-Image_96", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Exit", "s-Image_96"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
 
@@ -4703,13 +4727,13 @@
 
 			widgets.rootWidgetMap[["s-Image_97", "03f0010f-3337-4204-b688-9295edf54905"]] = ["Exit", "s-Image_97"]; 
 
-	widgets.descriptionMap[["s-Panel_1", "03f0010f-3337-4204-b688-9295edf54905"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Panel_1", "03f0010f-3337-4204-b688-9295edf54905"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
-
 	widgets.descriptionMap[["s-Panel_7", "03f0010f-3337-4204-b688-9295edf54905"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Panel_7", "03f0010f-3337-4204-b688-9295edf54905"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "03f0010f-3337-4204-b688-9295edf54905"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "03f0010f-3337-4204-b688-9295edf54905"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
 
 	widgets.descriptionMap[["s-Bg", "03f0010f-3337-4204-b688-9295edf54905"]] = ""; 
 

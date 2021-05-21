@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621617899137.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621617899137-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621622015725.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621622015725-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-0deeb7ca-8b29-4014-9422-aeec10ee10ce" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Buzon1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621617899137.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621617899137-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621617899137-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621622015725.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621622015725-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621622015725-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -139,7 +139,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
         <div id="s-side-drawer-dialog" class="pie percentage dynamicpanel firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin hidden non-processed" customid="side-drawer-dialog" datasizewidth="305.0px" datasizeheight="100.0%" dataX="-305.0" dataY="0.0" >\
-          <div id="s-Panel_7" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Panel_7"  datasizewidth="305.0px" datasizeheight="100.0%" >\
+          <div id="s-Panel_1" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Panel_7"  datasizewidth="305.0px" datasizeheight="100.0%" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -149,7 +149,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
             	  <div class="paddingLayer">\
                   <table class="layout" summary="">\
                     <tr>\
-                      <td class="layout vertical insertionpoint verticalalign Panel_7 side-drawer-dialog" valign="top" align="left" hSpacing="0" vSpacing="0"><div class="relativeLayoutWrapper s-side-drawer-header_1 "><div class="relativeLayoutWrapperResponsive">\
+                      <td class="layout vertical insertionpoint verticalalign Panel_1 side-drawer-dialog" valign="top" align="left" hSpacing="0" vSpacing="0"><div class="relativeLayoutWrapper s-side-drawer-header_1 "><div class="relativeLayoutWrapperResponsive">\
                   <div id="s-side-drawer-header_1" class="group firer ie-background commentable non-processed" customid="side-drawer-header_1" datasizewidth="306.0px" datasizeheight="175.0px" >\
                     <div id="s-Rectangle_115" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_115"   datasizewidth="306.0px" datasizeheight="175.0px" datasizewidthpx="306.0" datasizeheightpx="175.0" dataX="0.0" dataY="0.0" >\
                       <div class="backgroundLayer">\
@@ -486,8 +486,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
                         </div>\
                       </div>\
                     </div>\
-                  </div><div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 1" datasizewidth="306.0px" datasizeheight="44.0px" dataX="-0.0" dataY="-0.0" >\
-                    <div id="s-Panel_1" class="pie panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="306.0px" datasizeheight="44.0px" >\
+                  </div><div id="s-Dynamic_Panel_7" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 1" datasizewidth="306.0px" datasizeheight="44.0px" dataX="-0.0" dataY="-0.0" >\
+                    <div id="s-Panel_7" class="pie panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="306.0px" datasizeheight="44.0px" >\
                       <div class="backgroundLayer">\
                         <div class="colorLayer"></div>\
                         <div class="imageLayer"></div>\
@@ -623,7 +623,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Category_2" class="pie checkboxlist firer commentable non-processed" customid="Category"    datasizewidth="265.0px" datasizeheight="83.0px" dataX="56.2" dataY="237.0"  tabindex="-1">\
+      <div id="s-Category_2" class="pie checkboxlist firer commentable non-processed" customid="Category"    datasizewidth="265.0px" datasizeheight="83.0px" dataX="53.2" dataY="237.0"  tabindex="-1">\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -658,7 +658,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         </div>\
       </div>\
 \
-      <div id="s-Image_33" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="294.2" dataY="241.1"   alt="image" systemName="./images/20103cf7-78e4-4643-9e30-dc70154b0271.svg" overlay="#7D7D7D">\
+      <div id="s-Image_33" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.2" dataY="241.1"   alt="image" systemName="./images/20103cf7-78e4-4643-9e30-dc70154b0271.svg" overlay="#7D7D7D">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -746,7 +746,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         </div>\
       </div>\
 \
-      <div id="s-Image_34" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="294.2" dataY="266.5"   alt="image" systemName="./images/9766cdc4-ef4c-4a5c-8e94-0eeb7391ee41.svg" overlay="#7D7D7D">\
+      <div id="s-Image_34" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.2" dataY="266.5"   alt="image" systemName="./images/9766cdc4-ef4c-4a5c-8e94-0eeb7391ee41.svg" overlay="#7D7D7D">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -757,7 +757,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
       </div>\
 \
 \
-      <div id="s-Image_35" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="294.2" dataY="290.5"   alt="image" systemName="./images/2a480680-1644-46d3-ab3a-b167efdda418.svg" overlay="#7D7D7D">\
+      <div id="s-Image_35" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.2" dataY="290.5"   alt="image" systemName="./images/2a480680-1644-46d3-ab3a-b167efdda418.svg" overlay="#7D7D7D">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\

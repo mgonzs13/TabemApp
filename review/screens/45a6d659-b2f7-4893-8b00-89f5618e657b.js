@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621617899137.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621617899137-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621622015725.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621622015725-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-45a6d659-b2f7-4893-8b00-89f5618e657b" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ingredientes1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1621617899137.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1621617899137-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1621617899137-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1621622015725.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1621622015725-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1621622015725-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -139,7 +139,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
         <div id="s-side-drawer-dialog" class="pie percentage dynamicpanel firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin hidden non-processed" customid="side-drawer-dialog" datasizewidth="305.0px" datasizeheight="100.0%" dataX="-305.0" dataY="0.0" >\
-          <div id="s-Panel_7" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Panel_7"  datasizewidth="305.0px" datasizeheight="100.0%" >\
+          <div id="s-Panel_1" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Panel_7"  datasizewidth="305.0px" datasizeheight="100.0%" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -149,7 +149,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
             	  <div class="paddingLayer">\
                   <table class="layout" summary="">\
                     <tr>\
-                      <td class="layout vertical insertionpoint verticalalign Panel_7 side-drawer-dialog" valign="top" align="left" hSpacing="0" vSpacing="0"><div class="relativeLayoutWrapper s-side-drawer-header_1 "><div class="relativeLayoutWrapperResponsive">\
+                      <td class="layout vertical insertionpoint verticalalign Panel_1 side-drawer-dialog" valign="top" align="left" hSpacing="0" vSpacing="0"><div class="relativeLayoutWrapper s-side-drawer-header_1 "><div class="relativeLayoutWrapperResponsive">\
                   <div id="s-side-drawer-header_1" class="group firer ie-background commentable non-processed" customid="side-drawer-header_1" datasizewidth="306.0px" datasizeheight="175.0px" >\
                     <div id="s-Rectangle_115" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_115"   datasizewidth="306.0px" datasizeheight="175.0px" datasizewidthpx="306.0" datasizeheightpx="175.0" dataX="0.0" dataY="0.0" >\
                       <div class="backgroundLayer">\
@@ -486,8 +486,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
                         </div>\
                       </div>\
                     </div>\
-                  </div><div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 1" datasizewidth="306.0px" datasizeheight="44.0px" dataX="-0.0" dataY="-0.0" >\
-                    <div id="s-Panel_1" class="pie panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="306.0px" datasizeheight="44.0px" >\
+                  </div><div id="s-Dynamic_Panel_7" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 1" datasizewidth="306.0px" datasizeheight="44.0px" dataX="-0.0" dataY="-0.0" >\
+                    <div id="s-Panel_7" class="pie panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="306.0px" datasizeheight="44.0px" >\
                       <div class="backgroundLayer">\
                         <div class="colorLayer"></div>\
                         <div class="imageLayer"></div>\

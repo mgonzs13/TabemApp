@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621617899137.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621617899137-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621622015725.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621622015725-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-ed1744ae-96cf-410b-929b-cc57c4795c06" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="PlatosMesa" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/ed1744ae-96cf-410b-929b-cc57c4795c06-1621617899137.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ed1744ae-96cf-410b-929b-cc57c4795c06-1621617899137-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ed1744ae-96cf-410b-929b-cc57c4795c06-1621617899137-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/ed1744ae-96cf-410b-929b-cc57c4795c06-1621622015725.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/ed1744ae-96cf-410b-929b-cc57c4795c06-1621622015725-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/ed1744ae-96cf-410b-929b-cc57c4795c06-1621622015725-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -403,8 +403,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
                         </div>\
                       </div>\
                     </div>\
-                  </div><div id="s-Dynamic_Panel_1" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 1" datasizewidth="306.0px" datasizeheight="45.0px" dataX="0.0" dataY="0.0" >\
-                    <div id="s-Panel_1" class="pie panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="306.0px" datasizeheight="45.0px" >\
+                  </div><div id="s-Dynamic_Panel_5" class="pie dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 1" datasizewidth="306.0px" datasizeheight="45.0px" dataX="0.0" dataY="0.0" >\
+                    <div id="s-Panel_5" class="pie panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="306.0px" datasizeheight="45.0px" >\
                       <div class="backgroundLayer">\
                         <div class="colorLayer"></div>\
                         <div class="imageLayer"></div>\
@@ -610,7 +610,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
       <div id="s-Input_3" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="174.0px" datasizeheight="29.0px" dataX="139.0" dataY="272.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
       <div id="s-Paragraph_6" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="88.9px" datasizeheight="22.0px" dataX="47.0" dataY="276.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -626,10 +626,10 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Category_2" class="pie dropdown firer commentable non-processed" customid="Category"  readonly="readonly"  datasizewidth="173.5px" datasizeheight="29.0px" dataX="139.5" dataY="208.0"  tabindex="-1"><div class="backgroundLayer">\
+      <div id="s-Category_2" class="pie dropdown firer commentable non-processed" customid="Category"    datasizewidth="173.5px" datasizeheight="29.0px" dataX="139.5" dataY="208.0"  tabindex="-1"><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Por hacer</div></div></div></div></div><select id="s-Category_2-options" class="s-ed1744ae-96cf-410b-929b-cc57c4795c06 dropdown-options" disabled="disabled"><option selected="selected" class="option">Por hacer</option>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Por hacer</div></div></div></div></div><select id="s-Category_2-options" class="s-ed1744ae-96cf-410b-929b-cc57c4795c06 dropdown-options" ><option selected="selected" class="option">Por hacer</option>\
       <option  class="option">Concinando</option>\
       <option  class="option">Terminado</option>\
       <option  class="option">Entregado</option></select></div>\
@@ -651,7 +651,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
       <div id="s-Input_4" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="174.0px" datasizeheight="29.0px" dataX="139.0" dataY="240.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
       <div id="s-Paragraph_7" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="54.5px" datasizeheight="22.0px" dataX="78.0" dataY="243.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -670,7 +670,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
       <div id="s-Input_5" class="pie text firer commentable non-processed" customid="Input"  datasizewidth="174.0px" datasizeheight="29.0px" dataX="139.0" dataY="303.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
       <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="74.5px" datasizeheight="22.0px" dataX="61.4" dataY="306.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
