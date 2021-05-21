@@ -931,6 +931,18 @@
 
 			widgets.rootWidgetMap[["s-Button_4", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Button", "s-Button_4"]; 
 
+	widgets.descriptionMap[["s-Paragraph_7", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Input_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Input_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Input Text Field", "s-Input_6"]; 
+
+	widgets.descriptionMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
 	widgets.descriptionMap[["s-Button_11", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Button_11", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
@@ -939,21 +951,9 @@
 
 			widgets.rootWidgetMap[["s-Button_12", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
 
-	widgets.descriptionMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
 	widgets.descriptionMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
-	widgets.descriptionMap[["s-Paragraph_7", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_7", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Text", "s-Paragraph_7"]; 
-
-	widgets.descriptionMap[["s-Input_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Input_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Input Text Field", "s-Input_6"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
 
