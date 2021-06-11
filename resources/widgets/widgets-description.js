@@ -931,22 +931,6 @@
 
 			widgets.rootWidgetMap[["s-Input_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Input Text Field", "s-Input_6"]; 
 
-	widgets.descriptionMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
-	widgets.descriptionMap[["s-Button_11", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Button_11", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
-	widgets.descriptionMap[["s-Button_12", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Button_12", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
-	widgets.descriptionMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
 	widgets.descriptionMap[["s-Paragraph_8", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_8", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Text", "s-Paragraph_8"]; 
@@ -962,6 +946,22 @@
 	widgets.descriptionMap[["s-Image_17", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_17", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Delete", "s-Image_17"]; 
+
+	widgets.descriptionMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_3", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Button_11", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_11", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Button_12", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_12", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
 
@@ -2507,6 +2507,30 @@
 
 			widgets.rootWidgetMap[["s-Button_4", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Button", "s-Button_4"]; 
 
+	widgets.descriptionMap[["s-Paragraph_8", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_8", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_8"]; 
+
+	widgets.descriptionMap[["s-Paragraph_9", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_9", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_9"]; 
+
+	widgets.descriptionMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_18"]; 
+
+	widgets.descriptionMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_20"]; 
+
+	widgets.descriptionMap[["s-Input_4", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Input_4", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Check Box", "s-Input_4"]; 
+
+	widgets.descriptionMap[["s-Paragraph_5", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_5", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_5"]; 
+
 	widgets.descriptionMap[["s-Text_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Text_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
@@ -2543,29 +2567,9 @@
 
 			widgets.rootWidgetMap[["s-Button_14", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
 
-	widgets.descriptionMap[["s-Category_2", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_2", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Custom Select List", "s-Category_2"]; 
-
 	widgets.descriptionMap[["s-Content_panel", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Content_panel", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
-	widgets.descriptionMap[["s-Paragraph_8", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_8", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_8"]; 
-
-	widgets.descriptionMap[["s-Paragraph_9", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Paragraph_9", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_9"]; 
-
-	widgets.descriptionMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_18"]; 
-
-	widgets.descriptionMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_20"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ""; 
 

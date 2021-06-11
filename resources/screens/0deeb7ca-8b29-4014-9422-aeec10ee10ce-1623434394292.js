@@ -1,34 +1,11 @@
 jQuery("#simulation")
-  .on("click", ".s-45a6d659-b2f7-4893-8b00-89f5618e657b .click", function(event, data) {
+  .on("click", ".s-0deeb7ca-8b29-4014-9422-aeec10ee10ce .click", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
     jFirer = jEvent.getEventFirer();
-    if(jFirer.is("#s-Triangle")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimNavigation",
-                  "parameter": {
-                    "isbackward": true
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Black-cover")) {
+    if(jFirer.is("#s-Black-cover")) {
       cases = [
         {
           "blocks": [
@@ -418,16 +395,16 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_3")) {
+    } else if(jFirer.is("#s-Rectangle_4")) {
       cases = [
         {
           "blocks": [
             {
               "actions": [
                 {
-                  "action": "jimNavigation",
+                  "action": "jimShow",
                   "parameter": {
-                    "target": "screens/74bb3b0f-d86e-4df3-b44c-4afff6b518be"
+                    "target": [ "#s-Confirm-dialog" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -441,7 +418,53 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_4")) {
+    } else if(jFirer.is("#s-Rectangle_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Confirm-dialog" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_33")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimShow",
+                  "parameter": {
+                    "target": [ "#s-Confirm-dialog" ]
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Image_35")) {
       cases = [
         {
           "blocks": [
@@ -471,26 +494,9 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Button_12" ],
-                    "effect": {
-                      "type": "fade",
-                      "easing": "linear",
-                      "duration": 200
-                    }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
                   "action": "jimHide",
                   "parameter": {
-                    "target": [ "#s-Button_12" ],
-                    "effect": {
-                      "type": "fade",
-                      "duration": 200
-                    }
+                    "target": [ "#s-Confirm-dialog" ]
                   },
                   "exectype": "serial",
                   "delay": 0
@@ -505,87 +511,6 @@ jQuery("#simulation")
       event.data = data;
       jEvent.launchCases(cases);
     } else if(jFirer.is("#s-Button_12")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Confirm-dialog" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        },
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Confirm-dialog" ]
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_13")) {
-      cases = [
-        {
-          "blocks": [
-            {
-              "actions": [
-                {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Button_12" ],
-                    "effect": {
-                      "type": "fade",
-                      "easing": "linear",
-                      "duration": 200
-                    }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimHide",
-                  "parameter": {
-                    "target": [ "#s-Button_12" ],
-                    "effect": {
-                      "type": "fade",
-                      "duration": 200
-                    }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                }
-              ]
-            }
-          ],
-          "exectype": "serial",
-          "delay": 0
-        }
-      ];
-      event.data = data;
-      jEvent.launchCases(cases);
-    } else if(jFirer.is("#s-Button_14")) {
       cases = [
         {
           "blocks": [

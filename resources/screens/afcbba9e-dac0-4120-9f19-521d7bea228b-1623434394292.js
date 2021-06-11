@@ -141,26 +141,9 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimShow",
-                  "parameter": {
-                    "target": [ "#s-Button_12" ],
-                    "effect": {
-                      "type": "fade",
-                      "easing": "linear",
-                      "duration": 200
-                    }
-                  },
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
                   "action": "jimHide",
                   "parameter": {
-                    "target": [ "#s-Button_12" ],
-                    "effect": {
-                      "type": "fade",
-                      "duration": 200
-                    }
+                    "target": [ "#s-Confirm-dialog" ]
                   },
                   "exectype": "serial",
                   "delay": 0

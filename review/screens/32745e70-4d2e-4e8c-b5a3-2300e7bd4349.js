@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623434394292.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623434394292-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-32745e70-4d2e-4e8c-b5a3-2300e7bd4349" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Pedido" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349-1623432733432.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349-1623432733432-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349-1623432733432-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349-1623434394292.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349-1623434394292-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/32745e70-4d2e-4e8c-b5a3-2300e7bd4349-1623434394292-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -723,68 +723,6 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
-      <div id="s-Confirm-dialog" class="pie percentage dynamicpanel firer commentable pin hpin-center non-processed-percentage non-processed-pin hidden non-processed" customid="Confirm-dialog" datasizewidth="78.1%" datasizeheight="147.0px" dataX="-0.0" dataY="271.0" >\
-        <div id="s-Content_panel" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Content_panel"  datasizewidth="78.1%" datasizeheight="147.0px" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-          	<div class="layoutWrapper scrollable">\
-          	  <div class="paddingLayer">\
-                <div class="freeLayout">\
-                <div id="s-Paragraph_3" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_1"   datasizewidth="243.0px" datasizeheight="115.0px" dataX="24.0" dataY="16.0" >\
-                  <div class="backgroundLayer">\
-                    <div class="colorLayer"></div>\
-                    <div class="imageLayer"></div>\
-                  </div>\
-                  <div class="borderLayer">\
-                    <div class="paddingLayer">\
-                      <div class="content">\
-                        <div class="valign">\
-                          <span id="rtr-s-Paragraph_3_0">Esta mesa ya esta reservada</span>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-                <div id="s-Button_11" class="pie button multiline manualfit firer click ie-background commentable pin vpin-end hpin-end non-processed-pin non-processed" customid="Button_11"   datasizewidth="80.0px" datasizeheight="29.0px" dataX="8.0" dataY="8.0" >\
-                  <div class="backgroundLayer">\
-                    <div class="colorLayer"></div>\
-                    <div class="imageLayer"></div>\
-                  </div>\
-                  <div class="borderLayer">\
-                    <div class="paddingLayer">\
-                      <div class="content">\
-                        <div class="valign">\
-                          <span id="rtr-s-Button_11_0">OK</span>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-                <div id="s-Button_12" class="pie button multiline manualfit firer click commentable pin vpin-end hpin-end non-processed-pin hidden non-processed" customid="Button_12"   datasizewidth="80.0px" datasizeheight="29.0px" dataX="8.0" dataY="8.0" >\
-                  <div class="backgroundLayer">\
-                    <div class="colorLayer"></div>\
-                    <div class="imageLayer"></div>\
-                  </div>\
-                  <div class="borderLayer">\
-                    <div class="paddingLayer">\
-                      <div class="content">\
-                        <div class="valign">\
-                          <span id="rtr-s-Button_12_0"></span>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-                </div>\
-\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
 \
       <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_4" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="394.0" >\
@@ -875,6 +813,68 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         </div>\
       </div>\
 \
+      <div id="s-Confirm-dialog" class="pie percentage dynamicpanel firer commentable pin hpin-center non-processed-percentage non-processed-pin hidden non-processed" customid="Confirm-dialog" datasizewidth="78.1%" datasizeheight="147.0px" dataX="-0.0" dataY="294.0" >\
+        <div id="s-Content_panel" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Content_panel"  datasizewidth="78.1%" datasizeheight="147.0px" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+          	<div class="layoutWrapper scrollable">\
+          	  <div class="paddingLayer">\
+                <div class="freeLayout">\
+                <div id="s-Paragraph_3" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_1"   datasizewidth="243.0px" datasizeheight="115.0px" dataX="24.0" dataY="16.0" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Paragraph_3_0">Esta mesa ya esta reservada</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Button_11" class="pie button multiline manualfit firer click ie-background commentable pin vpin-end hpin-end non-processed-pin non-processed" customid="Button_11"   datasizewidth="80.0px" datasizeheight="29.0px" dataX="8.0" dataY="8.0" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Button_11_0">OK</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Button_12" class="pie button multiline manualfit firer click commentable pin vpin-end hpin-end non-processed-pin hidden non-processed" customid="Button_12"   datasizewidth="80.0px" datasizeheight="29.0px" dataX="8.0" dataY="8.0" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Button_12_0"></span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                </div>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\

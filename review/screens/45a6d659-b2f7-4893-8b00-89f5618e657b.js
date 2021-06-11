@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623434394292.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623434394292-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-45a6d659-b2f7-4893-8b00-89f5618e657b" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Ingredientes1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1623432733432.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1623432733432-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1623432733432-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1623434394292.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1623434394292-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/45a6d659-b2f7-4893-8b00-89f5618e657b-1623434394292-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -642,7 +642,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_3" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="115.0px" datasizeheight="32.0px" dataX="122.5" dataY="524.0" >\
+      <div id="s-Button_3" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="115.0px" datasizeheight="32.0px" dataX="122.5" dataY="543.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -657,7 +657,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_4" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="128.8px" datasizeheight="46.0px" dataX="115.6" dataY="444.0" >\
+      <div id="s-Button_4" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="128.8px" datasizeheight="46.0px" dataX="115.6" dataY="482.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -672,7 +672,97 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Confirm-dialog" class="pie percentage dynamicpanel firer commentable pin hpin-center non-processed-percentage non-processed-pin hidden non-processed" customid="Confirm-dialog" datasizewidth="78.1%" datasizeheight="270.0px" dataX="-0.0" dataY="185.0" >\
+\
+      <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_4" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="359.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_4_0">Ingrediente 2</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="382.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_8_0">1,90&euro;</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_3" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="300.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_3_0">Ingrediente 1</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Paragraph_9" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="323.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_9_0">0,50&euro;</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="320.0"   alt="image" systemName="./images/56bb5708-c165-475e-add4-5afdde793629.svg" overlay="#FF0000">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="380.0"   alt="image" systemName="./images/10614f66-69ca-47ae-860f-c5dbaf67dd3d.svg" overlay="#FF0000">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Confirm-dialog" class="pie percentage dynamicpanel firer commentable pin hpin-center non-processed-percentage non-processed-pin hidden non-processed" customid="Confirm-dialog" datasizewidth="78.1%" datasizeheight="270.0px" dataX="-0.0" dataY="182.5" >\
         <div id="s-Content_panel" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Content_panel"  datasizewidth="78.1%" datasizeheight="270.0px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
@@ -682,6 +772,25 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           	<div class="layoutWrapper scrollable">\
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
+                  <div id="s-Input_4" class="pie checkbox firer commentable non-processed nonMobile" customid="Input" datasizewidth="15.0px" datasizeheight="15.0px" dataX="79.5" dataY="184.0" >\
+                    <input class="checkBoxInput" type="checkbox"   value="true"  checked="checked" tabindex="-1" >\
+                  </div>\
+\
+                <div id="s-Paragraph_5" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="116.4px" datasizeheight="15.0px" dataX="102.8" dataY="183.0" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Paragraph_5_0">Incluido por defecto</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
                 <div id="s-Text_1" class="pie richtext manualfit firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Text_1"   datasizewidth="114.0px" datasizeheight="48.0px" dataX="24.0" dataY="24.0" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
@@ -795,11 +904,6 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Category_2" class="pie dropdown firer commentable non-processed" customid="Category"    datasizewidth="214.0px" datasizeheight="29.0px" dataX="39.0" dataY="176.0"  tabindex="-1"><div class="backgroundLayer">\
-                  <div class="colorLayer"></div>\
-                  <div class="imageLayer"></div>\
-                </div><div class="borderLayer"><div class="paddingLayer"><div class="content icon"><div class="valign"><div class="value">Incluido</div></div></div></div></div><select id="s-Category_2-options" class="s-45a6d659-b2f7-4893-8b00-89f5618e657b dropdown-options" ><option selected="selected" class="option">Incluido</option>\
-                <option  class="option">A&ntilde;adido</option></select></div>\
                 </div>\
 \
               </div>\
@@ -807,96 +911,6 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-\
-      <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_4" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="359.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_4_0">Ingrediente 2</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="382.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_8_0">1,90&euro;</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_3" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="300.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_3_0">Ingrediente 1</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_9" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="323.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_9_0">0,50&euro;</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="320.0"   alt="image" systemName="./images/56bb5708-c165-475e-add4-5afdde793629.svg" overlay="#FF0000">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="380.0"   alt="image" systemName="./images/10614f66-69ca-47ae-860f-c5dbaf67dd3d.svg" overlay="#FF0000">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
       </div>\
 \
       </div>\
