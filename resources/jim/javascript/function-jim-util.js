@@ -356,7 +356,8 @@
     "datagrid": 53,
 	"gridcell": 54,
 	"gridrow" : 55,
-	"masterinstance" : 56
+	"masterinstance" : 56,
+	"path": 57
   };
 
   var eventTypes = [
@@ -617,7 +618,10 @@
           jQuery.effects.restore(args.target, ["opacity"]);
         }
        	if ($(args.target).parent(".layout.horizontal").length)
-       	  $(args.target).css("display", "inline-block");
+			if($(args.target).hasClass("manualfit"))
+				 $(args.target).css("display", "inline-grid");
+			else
+          		$(args.target).css("display", "inline-block");
         switch(args.target.jimGetType()) {
           case itemType.panel:
 			if(window.PIE) {
@@ -661,7 +665,10 @@
       for(t=0, tLen=(jimUtil.exists($targets)) ? $targets.length : 0; t<tLen; t+=1) {
         $target = jQuery($targets[t]);
         if($target.parent(".layout.horizontal").length) {
-          $target.css("display", "inline-block");
+			if($target.hasClass("manualfit"))
+				 $target.css("display", "inline-grid");
+			else
+          		$target.css("display", "inline-block");
         }
         if(args && args.effect) {
           /* TODO: add .stop() to interrupt animation */
@@ -896,23 +903,9 @@
       }
       return components.join("/");
     },
-    "insertInto": function(args) {
-      var $target, $parent, checkIntersect, positionIndex, position, event, $insert, $child, targetOffset, targetPosition, parentPosition, containment, point, positionType, displayType, x, y, index, insert, childOffset;
-      $target = args.target;
-      $parent = args.parent;
-      position = args.position;
-      positionIndex= args.positionIndex;
-      checkIntersect = args.checkIntersect;
-      event = args.event;
-	  var oldParent = $target.parent();
-	  
-	  dragData = $target.data("jimDrag");
-      if(dragData && (!dragData.insertInto || dragData.insertInto.get(0) != $parent.get(0))){
-	  	dragData.insertInto = $parent;
-      }
-	  
-	  var $realParent = $parent.closest(".firer");
-	  type = $realParent.jimGetType();
+    "getParentToInsert": function($parent) {
+      var $realParent = $parent;
+      var type = $realParent.jimGetType();
 	  switch(type) {
 		case itemType.screen:
 		case itemType.template:
@@ -936,7 +929,25 @@
 	  	  break;
 	  }
 	  
-	  $parent = $realParent;
+	  return $realParent;
+    },
+    "insertInto": function(args) {
+      var $target, $parent, checkIntersect, positionIndex, position, event, $insert, $child, targetOffset, targetPosition, parentPosition, containment, point, positionType, displayType, x, y, index, insert, childOffset;
+      $target = args.target;
+      $parent = args.parent;
+      position = args.position;
+      positionIndex= args.positionIndex;
+      checkIntersect = args.checkIntersect;
+      event = args.event;
+	  var oldParent = $target.parent();
+	  
+	  dragData = $target.data("jimDrag");
+      if(dragData && (!dragData.insertInto || dragData.insertInto.get(0) != $parent.get(0))){
+	  	dragData.insertInto = $parent;
+      }
+	  
+	  var $realParent = $parent.closest(".firer");
+	  $parent = jimUtil.getParentToInsert($realParent);
 	  
       if(jimUtil.exists($target) && jimUtil.exists($parent)) {
         if($parent.children('#'+$target.attr("id")).length) { /*
@@ -2425,8 +2436,10 @@
 
 		    style = style.replace(/(?:fill|stroke): *#[a-fA-F0-9]+ !important/g,"");
 
-		    if (stroke != undefined && stroke != "none")
+		    if (stroke != undefined && stroke != "none") {
 		      path.attr("style", "stroke:" + color + " !important;" + style);
+			  style = "stroke:" + color + " !important;" + style;
+			}
 
 		    if (fill != undefined && fill != "none")
 			  path.attr("style", "fill:" + color + " !important;" + style);
@@ -2858,11 +2871,12 @@
 				else {
 					var x = parseFloat($child.css("left"));
 					var y = parseFloat($child.css("top"));
+                    var bounds = child.getBoundingClientRect();
 					childBounds = {
 						x : x,
 						y : y,
-						width : child.clientWidth,
-						height : child.clientHeight
+						width : bounds.right - bounds.left + parseFloat($child.css("margin-left")) + parseFloat($child.css("margin-right")),
+						height : bounds.bottom - bounds.top + parseFloat($child.css("margin-top")) + parseFloat($child.css("margin-bottom"))
 					};
 					
 					if (parentBounds && $child.is(".percentage")) {
@@ -2948,21 +2962,22 @@
 		"isRelative" : function(item) {
 			return item.is(".group, .masterinstance");
 		},
-		"insertRelativeItemIntoLayout" : function($container, item, bounds) {
-			if ($container.is("#alignmentBox") || $container.children().children().first().is(".freeLayout")) {
-				var x = parseFloat(item.css("left")) - bounds.x;
-				var y = parseFloat(item.css("top")) - bounds.y;
+		"insertRelativeItemIntoLayout" : function($container, $item, bounds) {
+			var $realContainer = jimUtil.getParentToInsert($container);
+			if ($container.is("#alignmentBox") || $realContainer.is(".freeLayout")) {
+				var x = parseFloat($item.css("left")) - bounds.x;
+				var y = parseFloat($item.css("top")) - bounds.y;
 				var offset = { x : x , y : y};
-				jimUtil.moveRelativeItemChilds(item, offset);
+				jimUtil.moveRelativeItemChilds($item, offset);
 			} else {
-				item.wrap("<div class='relativeLayoutWrapper " + item.attr("id").substring(2) + "'><div class='relativeLayoutWrapperResponsive'></div></div>");
-				var wrapper = item.parent().parent();
-				wrapper.css("transform", "translate(" + -bounds.x + "px, " + -bounds.y + "px)");
-				wrapper.css("width", bounds.width + "px");
-				wrapper.css("height", bounds.height + "px");
+				$item.wrap("<div class='relativeLayoutWrapper " + $item.attr("id").substring(2) + "'><div class='relativeLayoutWrapperResponsive'></div></div>");
+				var $wrapper = $item.parent().parent();
+				$wrapper.css("transform", "translate(" + -bounds.x + "px, " + -bounds.y + "px)");
+				$wrapper.css("width", bounds.width + "px");
+				$wrapper.css("height", bounds.height + "px");
 				
-				if (item.is(".hidden"))
-					wrapper.addClass("hidden");
+				if ($item.is(".hidden"))
+					$wrapper.addClass("hidden");
 			}
 		},
 		"refreshEventResponsiveLayoutItem" : function($target) {

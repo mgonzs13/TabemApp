@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621623451121.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621623451121-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-9a8c17a7-9420-42c5-bd6c-b62278f4c90f" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Platos" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/9a8c17a7-9420-42c5-bd6c-b62278f4c90f-1621623451121.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/9a8c17a7-9420-42c5-bd6c-b62278f4c90f-1621623451121-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/9a8c17a7-9420-42c5-bd6c-b62278f4c90f-1621623451121-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/9a8c17a7-9420-42c5-bd6c-b62278f4c90f-1623432733432.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/9a8c17a7-9420-42c5-bd6c-b62278f4c90f-1623432733432-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/9a8c17a7-9420-42c5-bd6c-b62278f4c90f-1623432733432-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -623,212 +623,372 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Category_1" class="pie checkboxlist firer commentable non-processed" customid="Category"    datasizewidth="265.0px" datasizeheight="83.0px" dataX="47.5" dataY="237.0"  tabindex="-1">\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="scroll">\
+\
+      <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_1" class="pie percentage rectangle manualfit firer click commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0000000000001" datasizeheightpx="65.00000000000006" dataX="0.0" dataY="228.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
             <div class="paddingLayer">\
-              <table class="collapse" style="height: 100%; width: 100%;" summary="">\
-                <tbody>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_1"   tabindex="-1" ></div>\
-                        <span class="option">Plato 1</span>\
-                    </td>\
-                  </tr>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_1"   tabindex="-1" ></div>\
-                        <span class="option">Plato 2</span>\
-                    </td>\
-                  </tr>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_1"   tabindex="-1" ></div>\
-                        <span class="option">Plato 3</span>\
-                    </td>\
-                  </tr>\
-                </tbody>\
-              </table>\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_1_0">Plato 1</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
+        <div id="s-stars" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
+          <div id="s-star-1" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="226.5" dataY="246.0" aspectRatio="1.0"   alt="image" systemName="./images/75758ca1-97d5-4d1e-a5a8-14c697aa031a.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_1" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="249.2" dataY="246.0" aspectRatio="1.0"   alt="image" systemName="./images/84fdc8f5-d458-40d8-af5e-9d2fee4ab6f5.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_2" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="272.0" dataY="246.0" aspectRatio="1.0"   alt="image" systemName="./images/61d77d91-810e-4383-8717-5d3638d90342.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_3" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="294.7" dataY="246.0" aspectRatio="1.0"   alt="image" systemName="./images/1f1caf01-180c-4837-a009-60d66aaf9919.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_4" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="317.5" dataY="246.0" aspectRatio="1.0"   alt="image" systemName="./images/70ce44fd-55d6-44f3-8822-cecaa74cbf06.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+        <div id="s-Paragraph_4" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.4" dataY="251.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_4_0">7,50&euro;</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
       </div>\
 \
-      <div id="s-stars" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
-        <div id="s-star-1" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="180.0" dataY="242.5" aspectRatio="1.0"   alt="image" systemName="./images/75758ca1-97d5-4d1e-a5a8-14c697aa031a.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
 \
+      <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_2" class="pie percentage rectangle manualfit firer click commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0000000000001" datasizeheightpx="65.0" dataX="0.0" dataY="288.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_2_0">Plato 2</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
 \
+        <div id="s-stars_1" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
+          <div id="s-star-1_5" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="226.0" dataY="306.0" aspectRatio="1.0"   alt="image" systemName="./images/f63b2c5d-1963-4b0c-9d9f-3dd58190b945.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
 \
-        <div id="s-star-1_1" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="203.0" dataY="242.5" aspectRatio="1.0"   alt="image" systemName="./images/84fdc8f5-d458-40d8-af5e-9d2fee4ab6f5.svg" overlay="#CCCCCC">\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_6" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="249.0" dataY="306.0" aspectRatio="1.0"   alt="image" systemName="./images/c31e550c-4b01-4b24-9b91-ecebb60ed042.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_7" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="272.0" dataY="306.0" aspectRatio="1.0"   alt="image" systemName="./images/858709de-6d0d-48bf-8ec4-8101f82463eb.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_8" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="295.0" dataY="306.0" aspectRatio="1.0"   alt="image" systemName="./images/5189035f-f87a-4f95-bcdf-5da94d84a183.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_9" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="317.0" dataY="306.0" aspectRatio="1.0"   alt="image" systemName="./images/fa591ed9-d0a3-47ea-9239-0331bbf56815.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+        <div id="s-Paragraph_5" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="311.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
           <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_5_0">5,50&euro;</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
-\
-\
-        <div id="s-star-1_2" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="226.0" dataY="242.5" aspectRatio="1.0"   alt="image" systemName="./images/61d77d91-810e-4383-8717-5d3638d90342.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-star-1_3" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="249.0" dataY="242.5" aspectRatio="1.0"   alt="image" systemName="./images/1f1caf01-180c-4837-a009-60d66aaf9919.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-star-1_4" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="272.0" dataY="242.5" aspectRatio="1.0"   alt="image" systemName="./images/70ce44fd-55d6-44f3-8822-cecaa74cbf06.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
       </div>\
 \
 \
-      <div id="s-stars_1" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
-        <div id="s-star-1_5" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="180.0" dataY="265.5" aspectRatio="1.0"   alt="image" systemName="./images/46235da8-1172-418b-9e77-e2b4638f00ed.svg" overlay="#CCCCCC">\
+      <div id="s-Group_3" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_3" class="pie percentage rectangle manualfit firer click commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0000000000001" datasizeheightpx="65.0" dataX="0.0" dataY="350.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
           <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_3_0">Plato 3</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
 \
+        <div id="s-stars_2" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
+          <div id="s-star-1_10" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="226.0" dataY="368.0" aspectRatio="1.0"   alt="image" systemName="./images/d558e340-f13d-484a-9441-e505893a6f31.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
 \
-        <div id="s-star-1_6" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="203.0" dataY="265.5" aspectRatio="1.0"   alt="image" systemName="./images/683f30b3-4290-4fb3-a5dc-a490b90eeecc.svg" overlay="#CCCCCC">\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_11" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="249.0" dataY="368.0" aspectRatio="1.0"   alt="image" systemName="./images/3711ac4e-1357-403a-bfd7-0c15cb11ed7a.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_12" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="272.0" dataY="368.0" aspectRatio="1.0"   alt="image" systemName="./images/1859e744-18b8-4e6e-a119-6958d0ac7045.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_13" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="295.0" dataY="368.0" aspectRatio="1.0"   alt="image" systemName="./images/b6082c99-d9a8-4f71-8615-9ab0a03d6f88.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_14" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="317.0" dataY="368.0" aspectRatio="1.0"   alt="image" systemName="./images/d2e60fab-8652-4f01-8bbd-231542f540d3.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+        <div id="s-Paragraph_6" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="373.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
           <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_6_0">3,90&euro;</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
-\
-\
-        <div id="s-star-1_7" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="226.0" dataY="265.5" aspectRatio="1.0"   alt="image" systemName="./images/23a3db99-6a14-4ff4-874a-38cf50654701.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-star-1_8" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="249.0" dataY="265.5" aspectRatio="1.0"   alt="image" systemName="./images/db8fd146-ca43-499b-bcf0-f53658a7387e.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-star-1_9" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="272.0" dataY="265.5" aspectRatio="1.0"   alt="image" systemName="./images/612ce7a1-a1e6-431c-8584-90423a5f05dc.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
       </div>\
 \
 \
-      <div id="s-stars_2" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
-        <div id="s-star-1_10" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="182.0" dataY="291.5" aspectRatio="1.0"   alt="image" systemName="./images/e662065c-7a01-4de1-8954-49478512d7ab.svg" overlay="#CCCCCC">\
+      <div id="s-Group_4" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.0px" datasizeheight="0.0px" >\
+        <div id="s-Rectangle_4" class="pie percentage rectangle manualfit firer click commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0000000000001" datasizeheightpx="65.0" dataX="0.0" dataY="411.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
           <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_4_0">Plato 4</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
 \
+        <div id="s-stars_3" class="group firer ie-background commentable non-processed" customid="stars" datasizewidth="116.0px" datasizeheight="24.0px" >\
+          <div id="s-star-1_15" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="226.0" dataY="429.0" aspectRatio="1.0"   alt="image" systemName="./images/a4f4e0d7-9b05-4541-b83d-0d4aa8b50b5c.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
 \
-        <div id="s-star-1_11" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="205.0" dataY="291.5" aspectRatio="1.0"   alt="image" systemName="./images/5008edb9-4e66-446e-a81c-64465153f237.svg" overlay="#CCCCCC">\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_16" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_1"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="249.0" dataY="429.0" aspectRatio="1.0"   alt="image" systemName="./images/c5f4fd14-e84c-4675-81a7-476bd430df89.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_17" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="272.0" dataY="429.0" aspectRatio="1.0"   alt="image" systemName="./images/932d8626-da87-47f5-907d-e99b561ce2b4.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_18" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="295.0" dataY="429.0" aspectRatio="1.0"   alt="image" systemName="./images/147dfa21-cabf-42a0-9f97-e28ed716d957.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+\
+          <div id="s-star-1_19" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="23.7px" datasizeheight="23.7px" dataX="317.0" dataY="429.0" aspectRatio="1.0"   alt="image" systemName="./images/9fe8bb61-9bfc-429d-991b-f76a4162d54e.svg" overlay="#CCCCCC">\
+            <div class="borderLayer">\
+            	<div class="imageViewport">\
+              	<?xml version="1.0" encoding="UTF-8"?>\
+              	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
+\
+              </div>\
+            </div>\
+          </div>\
+\
+        </div>\
+\
+        <div id="s-Paragraph_7" class="pie richtext autofit firer click ie-background commentable non-processed" customid="Paragraph"   datasizewidth="33.4px" datasizeheight="15.0px" dataX="145.0" dataY="434.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
           <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_7_0">2,90&euro;</span>\
+                </div>\
+              </div>\
             </div>\
           </div>\
         </div>\
-\
-\
-        <div id="s-star-1_12" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_2"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="228.0" dataY="291.5" aspectRatio="1.0"   alt="image" systemName="./images/e7970116-65a1-45e1-8df6-0b60e5f5ca20.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-star-1_13" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_3"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="251.0" dataY="291.5" aspectRatio="1.0"   alt="image" systemName="./images/ec251df9-7b6b-4204-aeb8-17a0d4bf0c2b.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
-\
-        <div id="s-star-1_14" class="pie image lockV firer click ie-background commentable non-processed" customid="star-1_4"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="274.0" dataY="291.5" aspectRatio="1.0"   alt="image" systemName="./images/2ca33d7d-c912-4e2f-b5e0-04d36e272a25.svg" overlay="#CCCCCC">\
-          <div class="borderLayer">\
-          	<div class="imageViewport">\
-            	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z" fill="#CCCCCC" jimofill=" " /></svg>\
-\
-            </div>\
-          </div>\
-        </div>\
-\
       </div>\
 \
       </div>\

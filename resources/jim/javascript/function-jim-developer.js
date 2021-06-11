@@ -322,15 +322,17 @@
 	
 	function getImageContentFile(item) {
 		if (item.jimGetType() == itemType.image) {
-			var img = item.find("img");
-			if (img.length)
+			if (item.find("img").length)
 				return img.attr("src");
-			else if (item.find("svg").length) {
+			else if (item.find("svg").length)
 				return item.attr("systemname");
-			}
-			
-			return "";
 		}
+		else if(item.jimGetType() == itemType.path) {
+            if (item.find("svg").length)
+                return item.find("svg")[0];
+        }
+        
+        return "";
 	}
 
 	function getIdOfParentCell(item) {
@@ -642,14 +644,22 @@
 			var imgFile = getImageContentFile($selectedItem);
 			if (imgFile) {
 				$("#developerPropertiesPalette #devFile").show();
-				var fileName = imgFile.substring( imgFile.lastIndexOf("/") + 1);
-				
-				var fileFormat = $selectedItem.find("svg").length > 0 ? ".svg" : imgFile.substring(imgFile.lastIndexOf("."));
-								
-				$("#developerPropertiesPalette #devFileURL").html(itemID + fileFormat);
-				$("#developerPropertiesPalette #devFile a").attr("href", imgFile);
-				$("#developerPropertiesPalette #devFile a").attr("download", itemID + fileFormat);
-				$("#devFileSeparator").show();
+                var fileFormat = $selectedItem.find("svg").length > 0 ? ".svg" : imgFile.substring(imgFile.lastIndexOf("."));
+                
+                $("#developerPropertiesPalette #devFileURL").html(itemID + fileFormat);
+                $("#developerPropertiesPalette #devFile a").attr("download", itemID + fileFormat);
+                
+                if($selectedItem.jimGetType() == itemType.image) {
+                    $("#developerPropertiesPalette #devFile a").attr("href", imgFile);
+                }
+                else if($selectedItem.jimGetType() == itemType.path) {
+                    var data = new XMLSerializer().serializeToString(imgFile);
+                    var svg = new Blob([data], { type: "image/svg+xml;charset=utf-8" });
+                    var url = URL.createObjectURL(svg);
+                    
+				    $("#developerPropertiesPalette #devFile a").attr("href", url);
+                }
+                $("#devFileSeparator").show();
 				
 			} else {
 				$("#developerPropertiesPalette #devFile").hide();
@@ -709,6 +719,8 @@
 				var isData = $selectedItem.closest(".datacell, .gridcell").length > 0;
 				if (isData) {
 					var selectedID = $selectedItem.attr("id");
+					if ($selectedItem.hasClass("shapewrapper"))
+						selectedID = $selectedItem.find(".firer").attr("id");
 					$rootWidget = $("#" + selectedID.substring(0, selectedID.indexOf("_") + 1) + idRootWidget);
 				}
 			}

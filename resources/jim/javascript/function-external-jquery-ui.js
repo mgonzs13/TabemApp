@@ -6114,8 +6114,7 @@ $.effects.blind = function(o) {
 
     // Adjust
     $.effects.save(el, props); el.show(); // Save & Show
-   	if(el.parent(".layout.horizontal").length)
-  	  el.css("display", "inline-block");
+   	setDisplayCSS(el);
     var wrapper = $.effects.createBoundingWrapper(el); // Create Wrapper
     var ref = (direction == 'vertical') ? 'height' : 'width';
     var distance = (direction == 'vertical') ? wrapper.height() : wrapper.width();
@@ -6212,8 +6211,7 @@ $.effects.bounce = function(o) {
 	
 	    // Adjust
 	    $.effects.save(el, props); el.show(); // Save & Show
-	   	if(el.parent(".layout.horizontal").length)
-	  	  el.css("display", "inline-block");
+	   	setDisplayCSS(el);
 	   	
 	    var wrapper = $.effects.createBoundingWrapper(el);
 	   	//fix for pin
@@ -6323,8 +6321,7 @@ $.effects.clip = function(o) {
 
     // Adjust
     $.effects.save(el, props); el.show(); // Save & Show
-   	if(el.parent(".layout.horizontal").length)
-  	  el.css("display", "inline-block");
+   	setDisplayCSS(el);
   
   	var w = 0;
 	var h = 0;
@@ -6414,8 +6411,7 @@ $.effects.drop = function(o) {
 
     // Adjust
     $.effects.save(el, props); el.show(); // Save & Show
-   	if(el.parent(".layout.horizontal").length)
-  	  el.css("display", "inline-block");
+   	setDisplayCSS(el);
    	
    	//fix for pin
     var wrapper = $.effects.createBoundingWrapper(el);
@@ -6490,8 +6486,7 @@ $.effects.explode = function(o) {
 	  o.options.mode = o.options.mode == 'toggle' ? ($(this).is(':visible') ? 'hide' : 'show') : o.options.mode;
 	  var el = $(this);
 	  if (show) {
-	  	if (el.parent().hasClass("horizontal")) el.css({'display':"inline-block"});
-	  	else el.css({'display':"block"});
+			setDisplayCSS(el);
 	  }
 	  var angle = getRotationDegrees(el);
 	  
@@ -6668,8 +6663,7 @@ $.effects.fold = function(o) {
 
     // Adjust
     $.effects.save(el, props); el.show(); // Save & Show
-   	if(el.parent(".layout.horizontal").length)
-  	  el.css("display", "inline-block");
+   	setDisplayCSS(el);
     var wrapper = $.effects.createBoundingWrapper(el);
     var widthFirst = ((mode == 'show') != horizFirst);
     var ref = widthFirst ? ['width', 'height'] : ['height', 'width'];
@@ -7016,8 +7010,7 @@ $.effects.size = function(o) {
       };
     };
     $.effects.save(el, restore ? props : props1); target.show(); // Save & Show
-   	if (el.parent(".layout.horizontal").length)
-  	  el.css("display", "inline-block");
+   	setDisplayCSS(el);
     $.effects.createWrapper(el); // Create Wrapper
     el.css('overflow','hidden').css(el.from); // Shift
 
@@ -7104,8 +7097,7 @@ $.effects.shake = function(o) {
     
     // Adjust
     $.effects.save(el, props); el.show(); // Save & Show
-   	if(el.parent(".layout.horizontal").length)
-  	  el.css("display", "inline-block");
+   	setDisplayCSS(el);
     var wrapper = $.effects.createBoundingWrapper(el); // Create Wrapper
     
     //Make wrapper bigger
@@ -7174,6 +7166,19 @@ Math.degrees = function(radians) {
   return radians * 180 / Math.PI;
 };
 
+function setDisplayCSS(el){
+   		if(el.hasClass("manualfit")){
+			if(el.parent(".layout.horizontal").length)
+				el.css("display", "inline-grid");
+			else
+			   el.css("display", "grid");
+		}
+		else if(el.parent(".layout.horizontal").length)
+        	el.css("display", "inline-block");	
+		else
+			el.css("display", "block");	
+}
+
 /*!
  * jQuery UI Effects Slide 1.8.22
  *
@@ -7202,8 +7207,8 @@ $.effects.slide = function(o) {
 
     // Adjust
     $.effects.save(el, props); el.show(); // Save & Show
-   	if(el.parent(".layout.horizontal").length)
-    	  el.css("display", "inline-block");
+	setDisplayCSS(el);
+
     var w = el.outerWidth( true );
     var h = el.outerHeight( true );
     var box = el[0].getBoundingClientRect();

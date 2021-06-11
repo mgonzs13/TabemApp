@@ -84,6 +84,11 @@
 	cursor: pointer;
 }
 
+#devWidgetDescriptionBox {
+	overflow: auto;
+}
+
 #devWidgetDescriptionBox > span {
 	white-space: pre-wrap;
+	word-break: break-word;
 }

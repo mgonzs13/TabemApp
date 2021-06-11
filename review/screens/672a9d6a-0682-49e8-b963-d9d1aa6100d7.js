@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621623451121.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621623451121-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-672a9d6a-0682-49e8-b963-d9d1aa6100d7" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Camareros" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/672a9d6a-0682-49e8-b963-d9d1aa6100d7-1621623451121.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/672a9d6a-0682-49e8-b963-d9d1aa6100d7-1621623451121-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/672a9d6a-0682-49e8-b963-d9d1aa6100d7-1621623451121-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/672a9d6a-0682-49e8-b963-d9d1aa6100d7-1623432733432.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/672a9d6a-0682-49e8-b963-d9d1aa6100d7-1623432733432-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/672a9d6a-0682-49e8-b963-d9d1aa6100d7-1623432733432-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -623,73 +623,6 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Category_1" class="pie checkboxlist firer commentable non-processed" customid="Category"    datasizewidth="265.0px" datasizeheight="83.0px" dataX="47.5" dataY="237.0"  tabindex="-1">\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="scroll">\
-            <div class="paddingLayer">\
-              <table class="collapse" style="height: 100%; width: 100%;" summary="">\
-                <tbody>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_1"   tabindex="-1" ></div>\
-                        <span class="option">Camarero 1</span>\
-                    </td>\
-                  </tr>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_1"   tabindex="-1" ></div>\
-                        <span class="option">Camarero 2</span>\
-                    </td>\
-                  </tr>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_1"   tabindex="-1" ></div>\
-                        <span class="option">Camarero 3</span>\
-                    </td>\
-                  </tr>\
-                </tbody>\
-              </table>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-      <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="237.0"   alt="image" systemName="./images/965b687f-d8cc-486f-8fd5-1f601beb7ddb.svg" overlay="#FF0000">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_19" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="266.5"   alt="image" systemName="./images/07f96064-20ab-47af-98d4-be2bbb198dbc.svg" overlay="#FF0000">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_20" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="296.0"   alt="image" systemName="./images/178cd731-bcac-4ee6-bba3-748360be4022.svg" overlay="#FF0000">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
       <div id="s-Button_2" class="pie button multiline manualfit firer click ie-background commentable non-processed" customid="Button"   datasizewidth="115.0px" datasizeheight="46.0px" dataX="122.5" dataY="493.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -705,6 +638,58 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
+      <div id="s-Rectangle_4" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="263.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_4_0">Camarero 2</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Rectangle_3" class="pie percentage rectangle manualfit firer commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="204.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_3_0">Camarero 1</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_18" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="224.5"   alt="image" systemName="./images/965b687f-d8cc-486f-8fd5-1f601beb7ddb.svg" overlay="#FF0000">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_19" class="pie image firer ie-background commentable non-processed" customid="Image_16"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="288.5" dataY="283.5"   alt="image" systemName="./images/07f96064-20ab-47af-98d4-be2bbb198dbc.svg" overlay="#FF0000">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" fill="#FF0000" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
       </div>\
 \
       </div>\

@@ -66,7 +66,7 @@ body.web #jim-web{ display:block; }
 
 
 /*** z-index ***/
-.masterinstance, .label, .image, .richtext, .table, .cell, .rectangle, .dynamicpanel, .text, .password, .textarea, .checkbox, .radiobutton, .date, .time, .datetime, .file, .selectionlist, .dropdown, .nativedropdown, .radiobuttonlist, .checkboxlist, .tree, .treenode, .menu, .menunode, .datagrid, .datalist, .headerrow, .datarow, .datacell, .gridcell, .summary, .index, .texttable, .textcell, .line, .multiselectionlist, .button, .imagemap, .html, .url, .document, .flash, .website, .ellipse, .callout, .line, .triangle, .shapewrapper { z-index: 2; }
+.masterinstance, .label, .image, .richtext, .table, .cell, .rectangle, .dynamicpanel, .text, .password, .textarea, .checkbox, .radiobutton, .date, .time, .datetime, .file, .selectionlist, .dropdown, .nativedropdown, .radiobuttonlist, .checkboxlist, .tree, .treenode, .menu, .menunode, .datagrid, .datalist, .headerrow, .datarow, .datacell, .gridcell, .summary, .index, .texttable, .textcell, .line, .multiselectionlist, .button, .imagemap, .html, .url, .document, .flash, .website, .ellipse, .callout, .line, .triangle, .shapewrapper, .path, .svgroot, .clippingmask { z-index: 2; }
 
 /*** text-overflow ***/
  .dropdown .value .nativedropdown .value, .text input, .password input, .date input, .time input, .datetime input, .file input { white-space: nowrap; text-overflow: ellipsis; }
@@ -145,15 +145,16 @@ input { border:0px; }
 .selectionlist, .multiselectionlist { white-space: nowrap; }
 .selectionlist .paddingLayer, .multiselectionlist .paddingLayer { display: table; }
 .selectionlist .scroll, .multiselectionlist .scroll { position: absolute; overflow: auto; height:100%; width:100%; text-decoration: inherit; box-sizing:border-box;}
+.selectionlist div, .selectionlist table, .multiselectionlist div, .multiselectionlist table { text-decoration: inherit; }
 
 /*** checkboxlist/radiobuttonlist ***/
 .checkboxlist, .radiobuttonlist { white-space: nowrap; }
-.checkboxlist .option, .radiobuttonlist .option { vertical-align: middle; margin: 0 0 0 3px; }
+.checkboxlist .option, .radiobuttonlist .option { vertical-align: middle; margin: 0 0 0 5px; text-decoration: inherit; }
 .checkboxlist input, .radiobuttonlist input { vertical-align: middle; }
 .checkboxlist .paddingLayer, .radiobuttonlist .paddingLayer { display: table; }
 .checkboxlist .scroll, .radiobuttonlist .scroll { position: absolute; overflow: auto; height:100%; width:100%; text-decoration: inherit; box-sizing:border-box;}
 .checkbox.nonMobile { width: 13px; height: 13px; }
-
+.checkboxlist div, .checkboxlist table, .radiobuttonlist div, .radiobuttonlist table { text-decoration: inherit; }
 
 /*** dropdown ***/
 .dropdown { position: relative; }
@@ -180,6 +181,7 @@ div.firer.panel > .backgroundLayer, div.firer.panel > .borderLayer { width: inhe
 /*** group ***/
 .group { position: relative; pointer-events: none; display: contents; }
 .group .firer { pointer-events: auto; }
+.group > * { box-sizing: content-box !important; }
 _:-ms-fullscreen, :root div.group { position: static; }
 
 /*** datalist ***/
@@ -224,7 +226,6 @@ _:-ms-fullscreen, :root .richtext.autofit .borderLayer, _:-ms-fullscreen, :root 
 .tree li.closed .nodecontent img.open { display: none; } 
 .tree li.open .nodecontent img.closed, .tree li.leaf .nodecontent img.closed { display: none; }
 .tree li.closed .nodecontent img.closed { display: inline; }
-.tree li.last.leaf .treeicon { display: none; }
 .tree li.leaf .treeicon { background-image: none !important; }
 .tree.withlines li { background-image: url("../images/common/treeline.gif"); background-repeat: repeat-y; }
 .tree.withlines li.last { background-image: url("../images/common/lastnode.gif"); background-repeat: no-repeat; }
@@ -290,6 +291,8 @@ foreignObject, svg, .shapewrapper, .shapewrapper .paddingLayer {pointer-events:n
 ellipse, path{pointer-events:visiblepainted;}
 clipPath path{pointer-events:none;}
 .shapert-clipping > .content {width:100%;height:100%;}
+.path .borderLayer, .svgroot .borderLayer {overflow:visible;}
+.path svg, .svgroot svg {overflow:visible; width:100%; height: 100%; position: absolute; top: 0px; left: 0px;}
 
 /*** masterinstance ***/
 #jim-body #simulation div.masterinstance div.scrollable div.firer,

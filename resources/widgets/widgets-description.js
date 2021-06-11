@@ -395,6 +395,26 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_4", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ["Text", "s-Paragraph_4"]; 
 
+	widgets.descriptionMap[["s-Text_1", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Text_1", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Button_11", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_11", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Button_12", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Button_12", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Paragraph_5", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_5", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Content_panel", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Content_panel", "afcbba9e-dac0-4120-9f19-521d7bea228b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
 	widgets.descriptionMap[["s-BgWhite", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
 
 			widgets.rootWidgetMap[["s-BgWhite", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ["Dark Background", "s-BgWhite"]; 
@@ -526,10 +546,6 @@
 	widgets.descriptionMap[["s-Paragraph_1", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ["Text", "s-Paragraph_1"]; 
-
-	widgets.descriptionMap[["s-Category_1", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_1", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ["Check List", "s-Category_1"]; 
 
 	widgets.descriptionMap[["s-Image_44", "bb1dfb07-ff96-4283-b126-5c1f27c54859"]] = ""; 
 
@@ -699,13 +715,13 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Text", "s-Paragraph_1"]; 
 
-	widgets.descriptionMap[["s-Category_2", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_2", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Check List", "s-Category_2"]; 
-
 	widgets.descriptionMap[["s-Image_33", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_33", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Visibility On", "s-Image_33"]; 
+
+	widgets.descriptionMap[["s-Image_35", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_35", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Visibility On", "s-Image_35"]; 
 
 	widgets.descriptionMap[["s-Text_1", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
 
@@ -726,14 +742,6 @@
 	widgets.descriptionMap[["s-Content_panel", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Content_panel", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
-
-	widgets.descriptionMap[["s-Image_34", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_34", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Visibility On", "s-Image_34"]; 
-
-	widgets.descriptionMap[["s-Image_35", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_35", "0deeb7ca-8b29-4014-9422-aeec10ee10ce"]] = ["Visibility On", "s-Image_35"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
@@ -911,22 +919,6 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_2", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Text", "s-Paragraph_2"]; 
 
-	widgets.descriptionMap[["s-Category_2", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_2", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Check List", "s-Category_2"]; 
-
-	widgets.descriptionMap[["s-Image_16", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_16", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Delete", "s-Image_16"]; 
-
-	widgets.descriptionMap[["s-Image_17", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_17", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Delete", "s-Image_17"]; 
-
-	widgets.descriptionMap[["s-Image_18", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_18", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Delete", "s-Image_18"]; 
-
 	widgets.descriptionMap[["s-Button_4", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Button_4", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Button", "s-Button_4"]; 
@@ -954,6 +946,22 @@
 	widgets.descriptionMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Content_panel", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Paragraph_8", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_8", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Text", "s-Paragraph_8"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Text", "s-Paragraph_6"]; 
+
+	widgets.descriptionMap[["s-Image_16", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_16", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Delete", "s-Image_16"]; 
+
+	widgets.descriptionMap[["s-Image_17", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_17", "32745e70-4d2e-4e8c-b5a3-2300e7bd4349"]] = ["Delete", "s-Image_17"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
 
@@ -1083,13 +1091,17 @@
 
 			widgets.rootWidgetMap[["s-signals", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Status bar light", "s-Status-bar"]; 
 
+	widgets.descriptionMap[["s-Paragraph_7", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Text", "s-Paragraph_6"]; 
+
 	widgets.descriptionMap[["s-Paragraph_1", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Text", "s-Paragraph_1"]; 
-
-	widgets.descriptionMap[["s-Category_1", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_1", "e996a94e-e952-4bf8-adb7-9b158db73caa"]] = ["Check List", "s-Category_1"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
 
@@ -1247,69 +1259,9 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Text", "s-Paragraph_1"]; 
 
-	widgets.descriptionMap[["s-Category_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+	widgets.descriptionMap[["s-Button_3", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Category_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Check List", "s-Category_1"]; 
-
-	widgets.descriptionMap[["s-star-1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1"]; 
-
-	widgets.descriptionMap[["s-star-1_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_1", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_1"]; 
-
-	widgets.descriptionMap[["s-star-1_2", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_2", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_2"]; 
-
-	widgets.descriptionMap[["s-star-1_3", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_3", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_3"]; 
-
-	widgets.descriptionMap[["s-star-1_4", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_4", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_4"]; 
-
-	widgets.descriptionMap[["s-star-1_5", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_5", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_5"]; 
-
-	widgets.descriptionMap[["s-star-1_6", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_6", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_6"]; 
-
-	widgets.descriptionMap[["s-star-1_7", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_7", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_7"]; 
-
-	widgets.descriptionMap[["s-star-1_8", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_8", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_8"]; 
-
-	widgets.descriptionMap[["s-star-1_9", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_9", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_9"]; 
-
-	widgets.descriptionMap[["s-star-1_10", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_10", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_10"]; 
-
-	widgets.descriptionMap[["s-star-1_11", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_11", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_11"]; 
-
-	widgets.descriptionMap[["s-star-1_12", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_12", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_12"]; 
-
-	widgets.descriptionMap[["s-star-1_13", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_13", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_13"]; 
-
-	widgets.descriptionMap[["s-star-1_14", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-star-1_14", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Star", "s-star-1_14"]; 
+			widgets.rootWidgetMap[["s-Button_3", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Button", "s-Button_3"]; 
 
 	widgets.descriptionMap[["s-Image_42", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
 
@@ -1323,9 +1275,25 @@
 
 			widgets.rootWidgetMap[["s-Image_44", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Add", "s-Image_44"]; 
 
-	widgets.descriptionMap[["s-Button_3", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+	widgets.descriptionMap[["s-Image_45", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Button_3", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Button", "s-Button_3"]; 
+			widgets.rootWidgetMap[["s-Image_45", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Add", "s-Image_45"]; 
+
+	widgets.descriptionMap[["s-Paragraph_7", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Text", "s-Paragraph_6"]; 
+
+	widgets.descriptionMap[["s-Paragraph_5", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_5", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Text", "s-Paragraph_5"]; 
+
+	widgets.descriptionMap[["s-Paragraph_4", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_4", "c0586143-98be-4cde-b01e-3b24505f805d"]] = ["Text", "s-Paragraph_4"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "c4e561c7-5ae0-4a39-b19d-e5de2d85f4f6"]] = ""; 
 
@@ -1707,13 +1675,25 @@
 
 			widgets.rootWidgetMap[["s-signals", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Status bar light", "s-Status-bar"]; 
 
+	widgets.descriptionMap[["s-Paragraph_5", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_5", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Text", "s-Paragraph_5"]; 
+
+	widgets.descriptionMap[["s-Paragraph_7", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Text", "s-Paragraph_6"]; 
+
 	widgets.descriptionMap[["s-Paragraph_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Text", "s-Paragraph_1"]; 
 
-	widgets.descriptionMap[["s-Category_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
+	widgets.descriptionMap[["s-Button_2", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Category_1", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Check List", "s-Category_1"]; 
+			widgets.rootWidgetMap[["s-Button_2", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Button", "s-Button_2"]; 
 
 	widgets.descriptionMap[["s-Image_18", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
 
@@ -1738,10 +1718,6 @@
 	widgets.descriptionMap[["s-Image_83", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_83", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Edit", "s-Image_83"]; 
-
-	widgets.descriptionMap[["s-Button_2", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Button_2", "74bb3b0f-d86e-4df3-b44c-4afff6b518be"]] = ["Button", "s-Button_2"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
@@ -1899,10 +1875,6 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Text", "s-Paragraph_1"]; 
 
-	widgets.descriptionMap[["s-Category_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Check List", "s-Category_1"]; 
-
 	widgets.descriptionMap[["s-star-1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-star-1", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1"]; 
@@ -1922,6 +1894,10 @@
 	widgets.descriptionMap[["s-star-1_4", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-star-1_4", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_4"]; 
+
+	widgets.descriptionMap[["s-Paragraph_4", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_4", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Text", "s-Paragraph_4"]; 
 
 	widgets.descriptionMap[["s-star-1_5", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
@@ -1943,6 +1919,10 @@
 
 			widgets.rootWidgetMap[["s-star-1_9", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_9"]; 
 
+	widgets.descriptionMap[["s-Paragraph_5", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_5", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Text", "s-Paragraph_5"]; 
+
 	widgets.descriptionMap[["s-star-1_10", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-star-1_10", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_10"]; 
@@ -1962,6 +1942,34 @@
 	widgets.descriptionMap[["s-star-1_14", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-star-1_14", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_14"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Text", "s-Paragraph_6"]; 
+
+	widgets.descriptionMap[["s-star-1_15", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-star-1_15", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_15"]; 
+
+	widgets.descriptionMap[["s-star-1_16", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-star-1_16", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_16"]; 
+
+	widgets.descriptionMap[["s-star-1_17", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-star-1_17", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_17"]; 
+
+	widgets.descriptionMap[["s-star-1_18", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-star-1_18", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_18"]; 
+
+	widgets.descriptionMap[["s-star-1_19", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-star-1_19", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Star", "s-star-1_19"]; 
+
+	widgets.descriptionMap[["s-Paragraph_7", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "9a8c17a7-9420-42c5-bd6c-b62278f4c90f"]] = ["Text", "s-Paragraph_7"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "1a631065-d6cf-4391-93c5-10ac13d36120"]] = ""; 
 
@@ -2479,25 +2487,17 @@
 
 			widgets.rootWidgetMap[["s-signals", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Status bar light", "s-Status-bar"]; 
 
+	widgets.descriptionMap[["s-Paragraph_4", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_4", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_4"]; 
+
+	widgets.descriptionMap[["s-Input_3", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Input_3", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Input Text Field", "s-Input_3"]; 
+
 	widgets.descriptionMap[["s-Paragraph_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_1"]; 
-
-	widgets.descriptionMap[["s-Category_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_1", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Check List", "s-Category_1"]; 
-
-	widgets.descriptionMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_18"]; 
-
-	widgets.descriptionMap[["s-Image_19", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_19", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_19"]; 
-
-	widgets.descriptionMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_20"]; 
 
 	widgets.descriptionMap[["s-Button_3", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
@@ -2543,9 +2543,29 @@
 
 			widgets.rootWidgetMap[["s-Button_14", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
 
+	widgets.descriptionMap[["s-Category_2", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Category_2", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Custom Select List", "s-Category_2"]; 
+
 	widgets.descriptionMap[["s-Content_panel", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Content_panel", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Confirm dialog", "s-Confirm-dialog"]; 
+
+	widgets.descriptionMap[["s-Paragraph_8", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_8", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_8"]; 
+
+	widgets.descriptionMap[["s-Paragraph_9", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_9", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Text", "s-Paragraph_9"]; 
+
+	widgets.descriptionMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_18", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_18"]; 
+
+	widgets.descriptionMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_20", "45a6d659-b2f7-4893-8b00-89f5618e657b"]] = ["Delete", "s-Image_20"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "56046cb9-60ed-4ae9-9375-e0cd2dc3b835"]] = ""; 
 
@@ -2811,25 +2831,17 @@
 
 			widgets.rootWidgetMap[["s-signals", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Status bar light", "s-Status-bar"]; 
 
+	widgets.descriptionMap[["s-Paragraph_9", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_9", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Text", "s-Paragraph_9"]; 
+
+	widgets.descriptionMap[["s-Paragraph_10", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_10", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Text", "s-Paragraph_10"]; 
+
 	widgets.descriptionMap[["s-Paragraph_1", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Text", "s-Paragraph_1"]; 
-
-	widgets.descriptionMap[["s-Category_1", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_1", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Check List", "s-Category_1"]; 
-
-	widgets.descriptionMap[["s-Image_44", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_44", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Chevron Right", "s-Image_44"]; 
-
-	widgets.descriptionMap[["s-Image_45", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_45", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Chevron Right", "s-Image_45"]; 
-
-	widgets.descriptionMap[["s-Image_46", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_46", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ["Chevron Right", "s-Image_46"]; 
 
 	widgets.descriptionMap[["s-Input_3", "ed1744ae-96cf-410b-929b-cc57c4795c06"]] = ""; 
 
@@ -3123,9 +3135,9 @@
 
 			widgets.rootWidgetMap[["s-Ellipse_4", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Time", "s-Time"]; 
 
-	widgets.descriptionMap[["s-Line_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
+	widgets.descriptionMap[["s-Path_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Line_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Time", "s-Time"]; 
+			widgets.rootWidgetMap[["s-Path_1", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ["Time", "s-Time"]; 
 
 	widgets.descriptionMap[["s-Cell_2", "23ee6fd7-0b90-4b88-8d0f-34e8ff28be0c"]] = ""; 
 
@@ -3687,6 +3699,10 @@
 
 			widgets.rootWidgetMap[["s-Button_1", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Button", "s-Button_1"]; 
 
+	widgets.descriptionMap[["s-Input_2", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Input_2", "2902eccb-781c-4c48-8ed4-2892d70edb68"]] = ["Input Text Field", "s-Input_2"]; 
+
 	widgets.descriptionMap[["s-BgWhite", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
 
 			widgets.rootWidgetMap[["s-BgWhite", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Dark Background", "s-BgWhite"]; 
@@ -3843,9 +3859,9 @@
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Text", "s-Paragraph_1"]; 
 
-	widgets.descriptionMap[["s-Category_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
+	widgets.descriptionMap[["s-Button_2", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Category_1", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Check List", "s-Category_1"]; 
+			widgets.rootWidgetMap[["s-Button_2", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Button", "s-Button_2"]; 
 
 	widgets.descriptionMap[["s-Image_18", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
 
@@ -3854,14 +3870,6 @@
 	widgets.descriptionMap[["s-Image_19", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_19", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Delete", "s-Image_19"]; 
-
-	widgets.descriptionMap[["s-Image_20", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_20", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Delete", "s-Image_20"]; 
-
-	widgets.descriptionMap[["s-Button_2", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Button_2", "672a9d6a-0682-49e8-b963-d9d1aa6100d7"]] = ["Button", "s-Button_2"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ""; 
 
@@ -4046,6 +4054,174 @@
 	widgets.descriptionMap[["s-Input_5", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Input_5", "bc956b78-03d2-40a1-9397-277be77ada8e"]] = ["Input Text Field", "s-Input_5"]; 
+
+	widgets.descriptionMap[["s-BgWhite", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-BgWhite", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Dark Background", "s-BgWhite"]; 
+
+	widgets.descriptionMap[["s-Softkeys-bg", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Softkeys-bg", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Horizontal softkeys", "s-Horizontal_softkeys"]; 
+
+	widgets.descriptionMap[["s-Square", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Square", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Horizontal softkeys", "s-Horizontal_softkeys"]; 
+
+	widgets.descriptionMap[["s-Circle", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Circle", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Horizontal softkeys", "s-Horizontal_softkeys"]; 
+
+	widgets.descriptionMap[["s-Triangle", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Triangle", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Horizontal softkeys", "s-Horizontal_softkeys"]; 
+
+	widgets.descriptionMap[["s-Rectangle_115", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Rectangle_115", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Ellipse_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Ellipse_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-drop-down", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-drop-down", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Drop Down", "s-drop-down"]; 
+
+	widgets.descriptionMap[["s-Label_55", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Label_55", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Bg_status_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Bg_status_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_27", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_27", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_27"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_12", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_12", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_12"]; 
+
+	widgets.descriptionMap[["s-Image_11", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_11", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Restaurant", "s-Image_11"]; 
+
+	widgets.descriptionMap[["s-Panel_6", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_6", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_23", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_23", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_23"]; 
+
+	widgets.descriptionMap[["s-Image_9", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_9", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Shopping Cart", "s-Image_9"]; 
+
+	widgets.descriptionMap[["s-Panel_5", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_5", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_34", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_34", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_34"]; 
+
+	widgets.descriptionMap[["s-Image_19", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_19", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Event", "s-Image_19"]; 
+
+	widgets.descriptionMap[["s-Panel_4", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_4", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Image_91", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_91", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Email", "s-Image_91"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_24", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_24", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_24"]; 
+
+	widgets.descriptionMap[["s-Panel_3", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_3", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_36", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_36", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_36"]; 
+
+	widgets.descriptionMap[["s-Image_21", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_21", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Settings", "s-Image_21"]; 
+
+	widgets.descriptionMap[["s-Panel_2", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_2", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_41", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_41", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_41"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_42", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_42", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_42"]; 
+
+	widgets.descriptionMap[["s-Two-line-item_35", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Two-line-item_35", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Two line item", "s-Two-line-item_35"]; 
+
+	widgets.descriptionMap[["s-Image_96", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Image_96", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Exit", "s-Image_96"]; 
+
+	widgets.descriptionMap[["s-Panel_7", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_7", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Panel_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Panel_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Share menu dialog", "s-side-drawer-dialog"]; 
+
+	widgets.descriptionMap[["s-Bg", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Bg", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Navigation drawer", "s-Side-drawer"]; 
+
+	widgets.descriptionMap[["s-menu", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-menu", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Menu", "s-menu"]; 
+
+	widgets.descriptionMap[["s-Bg_status", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Bg_status", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Status bar light", "s-Status-bar"]; 
+
+	widgets.descriptionMap[["s-hour", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-hour", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Status bar light", "s-Status-bar"]; 
+
+	widgets.descriptionMap[["s-signals", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-signals", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Status bar light", "s-Status-bar"]; 
+
+	widgets.descriptionMap[["s-Paragraph_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_1", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Text", "s-Paragraph_1"]; 
+
+	widgets.descriptionMap[["s-Paragraph_4", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_4", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Text", "s-Paragraph_4"]; 
+
+	widgets.descriptionMap[["s-Paragraph_5", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_5", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Text", "s-Paragraph_5"]; 
+
+	widgets.descriptionMap[["s-Paragraph_7", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "f90d44d4-2448-4fea-8502-c98cb75b4c28"]] = ["Text", "s-Paragraph_6"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "5838b3ce-3f12-4ea5-b2c4-4b70bee182da"]] = ""; 
 
@@ -4367,25 +4543,29 @@
 
 			widgets.rootWidgetMap[["s-signals", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Status bar light", "s-Status-bar"]; 
 
+	widgets.descriptionMap[["s-Paragraph_7", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_7", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Text", "s-Paragraph_6"]; 
+
+	widgets.descriptionMap[["s-Paragraph_8", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_8", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Text", "s-Paragraph_8"]; 
+
+	widgets.descriptionMap[["s-Paragraph_9", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_9", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Text", "s-Paragraph_9"]; 
+
 	widgets.descriptionMap[["s-Paragraph_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Paragraph_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Text", "s-Paragraph_1"]; 
 
-	widgets.descriptionMap[["s-Category_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_1", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Check List", "s-Category_1"]; 
-
-	widgets.descriptionMap[["s-Category_2", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Category_2", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Check List", "s-Category_2"]; 
-
 	widgets.descriptionMap[["s-Image_45", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_45", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Add", "s-Image_45"]; 
-
-	widgets.descriptionMap[["s-Image_46", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_46", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Add", "s-Image_46"]; 
 
 	widgets.descriptionMap[["s-Image_47", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
@@ -4394,10 +4574,6 @@
 	widgets.descriptionMap[["s-Image_145", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_145", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Remove", "s-Image_145"]; 
-
-	widgets.descriptionMap[["s-Image_146", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_146", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ["Remove", "s-Image_146"]; 
 
 	widgets.descriptionMap[["s-Image_147", "5b2a223f-579b-4d21-b906-750835ef9261"]] = ""; 
 
@@ -4595,9 +4771,13 @@
 
 			widgets.rootWidgetMap[["s-Button_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Button", "s-Button_1"]; 
 
-	widgets.descriptionMap[["s-Category_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
+	widgets.descriptionMap[["s-Paragraph_7", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
 
-			widgets.rootWidgetMap[["s-Category_1", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Check List", "s-Category_1"]; 
+			widgets.rootWidgetMap[["s-Paragraph_7", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Text", "s-Paragraph_7"]; 
+
+	widgets.descriptionMap[["s-Paragraph_6", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Paragraph_6", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Text", "s-Paragraph_6"]; 
 
 	widgets.descriptionMap[["s-Image_16", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
 
@@ -4606,10 +4786,6 @@
 	widgets.descriptionMap[["s-Image_17", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Image_17", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Delete", "s-Image_17"]; 
-
-	widgets.descriptionMap[["s-Image_18", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Image_18", "0534ba30-7c9a-435f-b6b7-088e2e7bb63d"]] = ["Delete", "s-Image_18"]; 
 
 	widgets.descriptionMap[["s-BgWhite", "03f0010f-3337-4204-b688-9295edf54905"]] = ""; 
 

@@ -540,6 +540,12 @@
     	            break;
     	         case itemType.datalist:
     	            break;
+              case itemType.url:
+                value = $target.find("iframe").attr("src");
+                break;
+              case itemType.html:
+                value = $target.find("iframe").attr("srcdoc");
+                break;
     	    }
     	    return value;
     	}

@@ -76,7 +76,6 @@
       }
 
       var $parent = $target.parent().closest(".firer");
-      //if (parent.hasClass("verticalWrapper")) parent = parent.parent();
 
       position = $target.jimPosition();
       dragData = {
@@ -356,7 +355,7 @@
 	          if (args.containment) {
 	            var parentPositionLeft = 0;
 	            /*move with cursor*/
-	            if($parent.get(0) !== $target.parent().get(0))
+	            if($parent.get(0) !== $target.parent().closest(".firer").get(0))
 	        	  parentPositionLeft = $parent.jimPosition().left;
 	            containment = {
 	              "left": parentPositionLeft + parseInt($parent.css("border-left-width"),10) + parseInt($parent.css("padding-left"),10),
@@ -1195,6 +1194,22 @@
                     jimPin.pinAllElementsDescending($target);
                     jimUtil.wrapLayout($target);
                     break;
+                  case itemType.url:
+               		try {
+               			// check if given value is a valid url, if not throws exception and value is not set.
+	                  	var url = new URL(value);
+	                  	$target.find("iframe").attr("src", value);
+                  	} catch (error) {}                	
+                  	break;
+                  case itemType.html:
+                  	// ensure is in text format and not in html (for instance, when it is label or shape value)
+                  	if (/&\/?[a-z][\s\S]*&/i.test(value)) {
+                  		var spanAux = document.createElement('span');
+                  		spanAux.innerHTML = value;
+                  		value = spanAux.innerText;
+                  	}
+                  	$target.find("iframe").attr("srcdoc", value);
+                  	break;
                 }
                  if(bShape){
 					 shapeStyle = {};

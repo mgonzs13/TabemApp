@@ -555,7 +555,7 @@
     	   var fileref=document.createElement("link");
     	   fileref.setAttribute("rel", "stylesheet");
     	   fileref.setAttribute("type", "text/css");
-    	   fileref.setAttribute("href", "./resources/_jim/css/function-jim-common-ios.css");
+    	   fileref.setAttribute("href", "./resources/jim/css/function-jim-common-ios.css");
     	   document.getElementsByTagName("head")[0].appendChild(fileref);
        }
     })

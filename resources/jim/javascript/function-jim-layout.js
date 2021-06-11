@@ -64,6 +64,16 @@
 
     return obj;
   }
+
+  function getPrototypeID(url) {
+      if (url.toLowerCase().startsWith("http://") || url.toLowerCase().startsWith("https://")) {
+      url.replaceAll("//", "/").replace(":/", "://");
+    }
+
+    var parts = url.split('/');
+
+    return parts[7];
+  }
   
   /************************ END LOCAL METHOD DEFINITION *************************/
   
@@ -227,6 +237,12 @@
 		);
 
 		$('#webdevice-selector').customMenu();
+		
+		$("#editButton").on('click', function(event) {
+			 //get prototype id from url
+			 var id = getPrototypeID(window.location.href);
+			 window.location.href = "/usernote/editPrototype.action?prototypeId="+id;
+		});
 
         $sidepanel
 	      .bind("openPane", function(event) {

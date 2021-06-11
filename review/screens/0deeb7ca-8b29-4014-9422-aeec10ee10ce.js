@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621623451121.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1621623451121-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1623432733432-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-0deeb7ca-8b29-4014-9422-aeec10ee10ce" class="screen growth-vertical devMobile canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Buzon1" width="360" height="640">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621623451121.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621623451121-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1621623451121-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1623432733432.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1623432733432-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0deeb7ca-8b29-4014-9422-aeec10ee10ce-1623432733432-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Side-drawer" class="group firer ie-background commentable non-processed" customid="Side-drawer" datasizewidth="305.0px" datasizeheight="592.0px" >\
         <div id="s-BgWhite" class="pie percentage richtext manualfit firer commentable pin vpin-beginning hpin-beginning non-processed-percentage non-processed-pin non-processed" customid="BgWhite"   datasizewidth="100.0%" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
@@ -608,6 +608,36 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
 \
       </div>\
 \
+      <div id="s-Rectangle_4" class="pie percentage rectangle manualfit firer click commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="282.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_4_0">Sugerencia 2</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Rectangle_3" class="pie percentage rectangle manualfit firer click commentable non-processed-percentage non-processed" customid="Rectangle_1"   datasizewidth="100.0%" datasizeheight="65.0px" datasizewidthpx="360.0" datasizeheightpx="65.0" dataX="0.0" dataY="223.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_3_0">Sugerencia 1</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="252.3px" datasizeheight="39.0px" dataX="53.8" dataY="131.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -623,42 +653,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Category_2" class="pie checkboxlist firer commentable non-processed" customid="Category"    datasizewidth="265.0px" datasizeheight="83.0px" dataX="53.2" dataY="237.0"  tabindex="-1">\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="scroll">\
-            <div class="paddingLayer">\
-              <table class="collapse" style="height: 100%; width: 100%;" summary="">\
-                <tbody>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_2"   tabindex="-1" ></div>\
-                        <span class="option">Sugerencia 1</span>\
-                    </td>\
-                  </tr>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_2"   tabindex="-1" ></div>\
-                        <span class="option">Sugerencia 1</span>\
-                    </td>\
-                  </tr>\
-                  <tr>\
-                    <td>\
-                        <input type="checkbox" name="s-Category_2"   tabindex="-1" ></div>\
-                        <span class="option">Sugerencia 1</span>\
-                    </td>\
-                  </tr>\
-                </tbody>\
-              </table>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
 \
-      <div id="s-Image_33" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.2" dataY="241.1"   alt="image" systemName="./images/20103cf7-78e4-4643-9e30-dc70154b0271.svg" overlay="#7D7D7D">\
+      <div id="s-Image_33" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.0" dataY="244.0"   alt="image" systemName="./images/20103cf7-78e4-4643-9e30-dc70154b0271.svg" overlay="#7D7D7D">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -668,7 +664,18 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         </div>\
       </div>\
 \
-      <div id="s-Confirm-dialog" class="pie percentage dynamicpanel firer commentable pin hpin-center non-processed-percentage non-processed-pin hidden non-processed" customid="Confirm-dialog" datasizewidth="78.1%" datasizeheight="270.0px" dataX="0.0" dataY="201.5" >\
+\
+      <div id="s-Image_35" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.0" dataY="304.0"   alt="image" systemName="./images/2a480680-1644-46d3-ab3a-b167efdda418.svg" overlay="#7D7D7D">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="#7D7D7D" jimofill=" " /></svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Confirm-dialog" class="pie percentage dynamicpanel firer commentable pin hpin-center non-processed-percentage non-processed-pin hidden non-processed" customid="Confirm-dialog" datasizewidth="78.1%" datasizeheight="270.0px" dataX="0.0" dataY="212.0" >\
         <div id="s-Content_panel" class="pie percentage panel default firer commentable non-processed-percentage non-processed" customid="Content_panel"  datasizewidth="78.1%" datasizeheight="270.0px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
@@ -745,28 +752,6 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-\
-      <div id="s-Image_34" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.2" dataY="266.5"   alt="image" systemName="./images/9766cdc4-ef4c-4a5c-8e94-0eeb7391ee41.svg" overlay="#7D7D7D">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="#7D7D7D" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_35" class="pie image firer click ie-background commentable non-processed" customid="Image_33"   datasizewidth="24.0px" datasizeheight="24.0px" dataX="291.2" dataY="290.5"   alt="image" systemName="./images/2a480680-1644-46d3-ab3a-b167efdda418.svg" overlay="#7D7D7D">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="#7D7D7D" jimofill=" " /></svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
       </div>\
 \
       </div>\
